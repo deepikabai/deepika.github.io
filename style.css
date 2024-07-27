@@ -273,9 +273,9 @@ nav ul li a:hover::after{
     margin-right: 25px;
     font-size: 25px;
 }
-    .contact-left img{
-        position: relative;
-        top: 13px;
+.contact-left img{
+    position: relative;
+    top: 13px;
 }
 .social-icons{
     margin-top: 30px;
